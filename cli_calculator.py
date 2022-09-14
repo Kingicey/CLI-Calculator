@@ -24,6 +24,6 @@ elif op =="%":
 else:
     print("Enter valid operator")
     
-result = print("The result is of {} {} {} = ".format(num1, op, num2), result)
+result = print("The result of {} {} {} = ".format(num1, op, num2), result)
 
    
